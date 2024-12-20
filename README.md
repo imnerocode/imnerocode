@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Jesus Alejandro!
 
-<!--
-**imnerocode/imnerocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
+I'm a developer specializing in **backend** and **full stack** development. I have a passion for designing scalable and efficient systems, solving complex problems, and building tools that make a difference.
 
-Here are some ideas to get you started:
+Currently, I'm focused on:
+- 🌟 Backend development with **Go**, **gRPC**, and **Docker**.
+- ☁️ Cloud infrastructure and DevOps with **AWS**.
+- 🎨 Experimenting with game development and **virtual reality (VR)** using **Unity** and **Blender**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Technologies & Tools
+- **Languages**: Go, Python, C#, JavaScript, C++.
+- **DevOps**: Docker, Docker Compose, AWS.
+- **Frameworks & Tools**: gRPC, GORM, Unity, Gin-Gonic, Django, Flask, .NET.
+- **Databases**: MySQL, SQLite, MongoDB.
+- **Design**: Blender, OpenToonz.
+- **VR Development**: Unity (XR Toolkit), Blender for 3D modeling.
+
+---
+
+### 📈 Featured Projects
+- [**Protobuf Generator Script**](https://github.com/imnerocode/protoc-generator): Automating multi-language gRPC code generation with Docker.
+
+---
+
+### 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/jesus-alejandro-martinez-lopez-26ba9733b/)
+- ✉️ **Email**: jesalemalo@gmail.com
+
+---
+
+### 📊 GitHub Stats
+![imnerocode GitHub Stats](https://github-readme-stats.vercel.app/api?username=imnerocode&show_icons=true&theme=radical)
